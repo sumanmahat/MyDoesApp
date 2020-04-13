@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "58614424183",
+    "firebase_url": "https://mydoes-ffa30.firebaseio.com",
+    "project_id": "mydoes-ffa30",
+    "storage_bucket": "mydoes-ffa30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58614424183:android:1e6ee83b3448e60f119c72",
+        "android_client_info": {
+          "package_name": "com.example.mydoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58614424183-lsn6d0c3uh0cg9g5hb6vrp7paloe260u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mydoes",
+            "certificate_hash": "6de23d7121c036c60e4d40e358eb6da0f3f8795c"
+          }
+        },
+        {
+          "client_id": "58614424183-ic5nohk9iv0r9jis994gkjjuv3t53sb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiSahWr2coIp1b55rcZZW1NbtI5YnQgM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58614424183-ic5nohk9iv0r9jis994gkjjuv3t53sb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
